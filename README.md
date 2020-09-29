@@ -12,5 +12,5 @@
 * `cd haxor`
 * `chmod +x setup.sh`
 * `bash setup.sh`
-##  Run :
+##  For Run :
 * `haxor`
